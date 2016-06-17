@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xworkout.WebApi", "xworkout.WebApi\xworkout.WebApi.csproj", "{63BF2039-C386-472A-9CA3-C93A54EC8F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xworkout.WebApi.Tests", "xworkout.WebApi.Tests\xworkout.WebApi.Tests.csproj", "{E3B15D3D-B25B-4A00-8762-05A0515BD36A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BF2039-C386-472A-9CA3-C93A54EC8F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BF2039-C386-472A-9CA3-C93A54EC8F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BF2039-C386-472A-9CA3-C93A54EC8F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BF2039-C386-472A-9CA3-C93A54EC8F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B15D3D-B25B-4A00-8762-05A0515BD36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B15D3D-B25B-4A00-8762-05A0515BD36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B15D3D-B25B-4A00-8762-05A0515BD36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B15D3D-B25B-4A00-8762-05A0515BD36A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
